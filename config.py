@@ -4,11 +4,11 @@ Fill your Telegram API credentials here
 """
 
 # Telegram API Credentials (Get from https://my.telegram.org)
-API_ID = 123456  # YOUR_API_ID_HERE (number only)
-API_HASH = "your_api_hash_here_32_characters"  # YOUR_API_HASH_HERE
+API_ID = 39496551  # YOUR_API_ID_HERE (number only)
+API_HASH = "36495414098630fed4555734bcc9748b"  # YOUR_API_HASH_HERE
 
 # Bot Token (Get from @BotFather on Telegram)
-BOT_TOKEN = "1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZ"  # YOUR_BOT_TOKEN_HERE
+BOT_TOKEN = "8517043316:AAH31rVstixRMVolYwkShcqxiGCxi2kLD8s"  # YOUR_BOT_TOKEN_HERE
 
 # Audio Settings
 SAMPLE_RATE = 48000  # Audio sample rate
