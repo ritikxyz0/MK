@@ -1,0 +1,7 @@
+pyrogram==2.0.106
+sounddevice==0.4.6
+numpy==1.24.3
+scipy==1.10.1
+pyaudio==0.2.12
+pycaw==20201206
+comtypes==1.2.0
